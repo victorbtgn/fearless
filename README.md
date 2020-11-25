@@ -1,1 +1,1 @@
-Greatest project in the World!
+This web page writed only on html and css for education.
